@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.gitignore
+sample.env
+*.md
+terraform
+*.sh
+.log
